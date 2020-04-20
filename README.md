@@ -1,3 +1,6 @@
 # hello-world
 Learning the basics of github
-i am shahzad ahmad bhatti and i am trying to learn the Github basics
+
+Just another repository
+what i want to learn is how does this github thing works.
+
